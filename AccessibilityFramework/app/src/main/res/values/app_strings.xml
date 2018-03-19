@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="phrases">
+        <item>obrigado</item>
+        <item>de nada</item>
+        <item>bom dia</item>
+        <item>boa tarde</item>
+        <item>boa noite</item>
+        <item>como você está</item>
+        <item>preciso ir ao banheiro</item>
+        <item>quero tomar um pouco de água</item>
+        <item>não estou me sentindo bem hoje</item>
+        <item>vou tirar uma foto com a minha família</item>
+    </string-array>
+
+    <string name="initial_explanation">Bem-vindo ao jogo de palavras. O objetivo desse jogo é estimular e melhorar a comunicação de pessoas com deficiência de fala. Na tela seguinte, aparecerão frases textuais. Você terá que ditá-las, para que elas sejam reconhecidas pelo nosso reconhecedor de fala.</string>
+    <string name="start_button">Iniciar</string>
+    <string name="short_instruction">Diga a frase</string>
+    <string name="default_phrase">Frase faltando</string>
+    <string name="miss_advise">Resposta errada, por favor tente novamente</string>
+    <string name="hit_advise">Resposta certa, bom trabalho!</string>
+    <string name="final_congratulation">Muito bem. Você conseguiu!</string>
+    <string name="restart_button">Recomeçar</string>
+    <string name="exit_button">Sair</string>
+    <string name="try_again_button">Tente novamente</string>
+    <string name="congratulations_title">Parabéns</string>
+</resources>
